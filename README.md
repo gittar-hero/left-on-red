@@ -7,7 +7,7 @@ This repository provides two ways to process PDF files by converting all red-tin
 ## Included Tools
 
 ### 1. Web Interface (`app.py`)
-A user-friendly [Streamlit]([https://streamlit.io/](https://left-on-red.streamlit.app/)) application that allows you to upload PDFs via a browser, adjust red-detection sensitivity in real-time using sliders, and download the processed result.
+A user-friendly [Streamlit]([https://left-on-red.streamlit.app/]) application that allows you to upload PDFs via a browser, adjust red-detection sensitivity in real-time using sliders, and download the processed result.
 
 * **Features:**
     * Interactive threshold adjustment (Red, Green, and Blue offsets).
@@ -36,3 +36,4 @@ cd left-on-red
 # Install requirements
 
 pip install -r requirements.txt
+
